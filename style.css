@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.service {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+p {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#clock {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#counter {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#fact {
+    font-size: 20px;
+}
